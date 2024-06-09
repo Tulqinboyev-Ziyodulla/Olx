@@ -64,3 +64,80 @@
         }
     }
 }
+
+
+@media (max-width: 850px) {
+    .navbar {
+
+        .navbar__collection {
+
+            .navbar__img {
+                display: none;
+            }
+        }
+    }
+}
+
+@media (max-width: 650px) {
+    .navbar {
+
+        .navbar__collection {
+
+            .navbar__img {
+                display: none;
+            }
+
+            .navbar__text {
+                display: none;
+            }
+        }
+    }
+}
+
+@media (max-width: 550px) {
+    .navbar {
+
+        .navbar__collection {
+
+            .navbar__img {
+                display: none;
+            }
+
+            .navbar__text {
+                display: none;
+            }
+
+            .navbar__title {
+                display: none;
+            }
+        }
+    }
+}
+
+@media (max-width: 550px) {
+    .navbar {
+
+        .navbar__collection {
+
+            .navbar__img {
+                display: none;
+            }
+
+            .navbar__text {
+                display: none;
+            }
+
+            .navbar__title {
+                display: none;
+            }
+
+            button {
+                padding: 10px 20px;
+            }
+
+            svg {
+                display: none;
+            }
+        }
+    }
+}
